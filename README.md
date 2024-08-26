@@ -1,4 +1,4 @@
-# Programme de monte en competence de Sarah ()
+# Programme de montée en compétences de Sarah ()
 
 Programme de formation structuré de manière logique et chronologique pour guider un débutant en Linux à partir de zéro, en intégrant l'installation des outils nécessaires comme Git, VirtualBox, et Vagrant.
 
